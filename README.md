@@ -3,6 +3,9 @@
 ## Description
 This desktop application is a **multi-port**, **multi-channel** signal viewer developed using Python and Qt. It allows users to browse their PC to open signal files and view them in graphical form.
 
+## GUI
+![Task1 UI](https://github.com/RanaHany10/ICU_Monitor/assets/115092108/e1f763ff-8e5c-4a00-b9ba-191cd2e02203)
+
 ### Key Features
 1. Opening Signal Files:
    - The user can browse their PC to open any signal file.
