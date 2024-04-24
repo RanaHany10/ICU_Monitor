@@ -1,4 +1,4 @@
-# Multi Channel Signal Viewer
+# ICU Monitor
 
 ## Description
 This desktop application is a **multi-port**, **multi-channel** signal viewer developed using Python and Qt. It allows users to browse their PC to open signal files and view them in graphical form.
